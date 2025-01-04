@@ -2,7 +2,6 @@
     "name": "AlvaAR",
     "version": "1.0.0",
     "scripts": {
-      "build": "echo 'No build needed'"
+        "build": "echo 'No build needed'"
     }
-  }
-  
+}
