@@ -1,2 +1,0 @@
-# AlvaAR
-AlvazAR test server
